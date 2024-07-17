@@ -14,7 +14,7 @@
         android:layout_centerInParent="true"
         android:layout_margin="0dp"
         android:contentDescription="@string/appwidget_text"
-        android:padding="5dp"
+        android:padding="6dp"
         android:text="@string/appwidget_text"
         android:textColor="@color/black"
         android:textSize="14sp" />
